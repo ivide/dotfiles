@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Skyrim-XFWM
+Comment=A one dark colored theme.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Skyrim-XFWM
+GtkTheme=Skyrim-XFWM
